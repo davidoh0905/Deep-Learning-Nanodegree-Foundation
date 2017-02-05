@@ -1,0 +1,3 @@
+1. A Neural Network is an algorithmi that learns to identify patterns in data
+2. Backpropagation is a technique to train a Neural Net by updating weights via gradient descent
+3. Deep learning = many leayer neural net + big data + big compute
